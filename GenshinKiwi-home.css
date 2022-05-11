@@ -1,0 +1,56 @@
+
+body,html {margin: 0;}
+
+/* Header */
+    .top {
+        position:absolute;
+        left:0; right:0;
+        height: 100px;background-color: black;opacity: 0.6;
+    }
+.top2 {position: absolute;left: 500px;}
+
+/* Sections */
+ .main1 {
+        position: absolute;
+        left:195px; top:110px; right:0; bottom:0;background-color: black;opacity: 0.7;width: 1310px;height:250px;
+    }
+.main1_1 {
+        position: absolute;
+        left:195px; top:150px; right:0; bottom:0;width: 436.6666666666667px;height:210px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;font-size: 17px;
+    }
+.main1_2 {
+        position: absolute;
+        left:632px; top:150px; right:0; bottom:0;width: 436.6666666666667px;height:210px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;font-size: 17px;
+    }
+.main1_3 {
+        position: absolute;
+        left:1068px; top:150px; right:0; bottom:0;width: 436.6666666666667px;height:210px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;font-size: 17px;
+    }
+
+
+
+
+
+
+
+
+.main2 {
+        position: absolute;
+        left:300px; top:390px; right:0; bottom:0;width: 500px;height:445px;
+    }
+
+.main3 {position: absolute;left:940px; top:390px; right:0; bottom:0;width: 500px;height:445px;}
+
+
+/* Sub heading */
+h1 {color: white;font-family: 'Nunito', sans-serif;font-weight: 800;margin:0;padding-left: 10px;padding-top: 5px;font-size: 25px;}
+#sub {background-color: black;opacity: 0.7;}
+
+/* Nav */
+ul.nav {list-style-type: none;margin: 0;padding: 0;color: white;font-family: 'Nunito', sans-serif;font-weight: 600}
+
+ul.nav li {overflow: hidden;float: left;}
+
+ul.nav li a {float: left;display: flex;color: white;text-align: center;padding: 14px 16px;text-decoration: none;font-size: 1.5rem;width: 100%;}
+
+.left {position:absolute;left:0; top:110px; bottom: 0;width: 178px;background-color: black;opacity: 0.7;height: 744.5px;}
