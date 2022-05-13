@@ -1,0 +1,67 @@
+body,html {margin: 0;}
+
+/* Header black back*/
+.top {position:absolute;left:0; right:0;height: 100px;background-color: black;opacity: 0.6;}
+.top2 {position: absolute;left: 500px;}
+
+/* Aligns all contents in header */
+.head {display: flex;
+  align-items: center;
+  justify-content: center;margin-left: 150px;}
+
+/* Logo image */
+#image {height: 11vh;width: 10vh;padding-top: 8px;margin-right: -7px;}
+
+/* Header text */
+#text {line-height: 0%;}
+hr {border: 1px solid;align-content: center;}
+#color {color: white;width: 23vh;background-color: white;}
+#title {font-family: 'Calistoga', cursive;color: white;font-size: 40px;margin-bottom: 20px;margin-top: 10px;text-align: center;}
+#title2 {font-family: 'Alfa Slab One', cursive;color: white;font-size: 35px;margin-top: 15px;text-align: center;letter-spacing: 3px;}
+
+/* GMT Clock section */
+#time{position: absolute;left: 195px; top:110px; right:0; bottom:0;z-index: 1;}
+#time2{position: absolute;left: 195px; top:110px; right:0; bottom:0;background-color: black;width: 1310px;height:40px;z-index: 0;opacity: 0.5}
+
+.main1 {position: absolute;left:195px; top:110px; right:0; bottom:0;background-color: black;opacity: 0.6;width: 1310px;height:250px;}
+/* Asia clock */
+.main1_1 {position: absolute;left:195px; top:150px; right:0; bottom:0;width: 436.6666666666667px;height:210px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;font-size: 17px;}
+/* US clock */
+.main1_2 {position: absolute;left:632px; top:150px; right:0; bottom:0;width: 436.6666666666667px;height:210px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;font-size: 17px;}
+/* EU clock */
+.main1_3 {position: absolute;left:1068px; top:150px; right:0; bottom:0;width: 436.6666666666667px;height:210px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;font-size: 17px;}
+
+/* YouTube video section */
+.main2 {position: absolute;left:300px; top:390px; right:0; bottom:0;width: 500px;height:445px;background-color: black;opacity: 0.8;}
+#yt {position: absolute;left: 300px;top: 391px;right: 0;bottom: 0;}
+#yt2 {position: absolute;left: 300px;top: 433.5px;right: 0;bottom: 0;}
+
+/* Twitter section */
+.main3 {position: absolute;left:940px; top:390px; right:0; bottom:0;width: 500px;height:445px;background-color: black;opacity: 0.8;}
+#tweet{position: absolute;left: 940px;top: 389px;right: 0;bottom: 0;}
+#tweet2{position: absolute;left: 940px;top: 433.5px;right: 0;bottom: 0;}
+
+/* Event section */
+.main4 {position: absolute;left:300px; top:870px; right:0; bottom:0;width: 500px;height:200px;background-color: black;opacity: 0.6;}
+#events{position: absolute;left:300px; top:870px; right:0; bottom:0;z-index: 1;}
+#events1{position: absolute;left:300px; top:870px; right:0; bottom:0;background-color: black;width: 500px;height:40px;z-index: 0;opacity: 0.5}
+#events2{position: absolute;left:330px; top:900px; right:0; bottom:0;padding-left: 10px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;list-style-type: square;}
+
+/* Birthday section */
+.main5 {position: absolute;left:940px; top:870px; right:0; bottom:0;width: 500px;height:200px;background-color: black;opacity: 0.6;}
+#birth{position: absolute;left:940px; top:870px; right:0; bottom:0;z-index: 1;}
+#birth1{position: absolute;left:940px; top:870px; right:0; bottom:0;background-color: black;width: 500px;height:40px;z-index: 0;opacity: 0.5}
+#birth2{position: absolute;left:970px; top:900px; right:0; bottom:0;padding-left: 10px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;list-style-type: square;}
+
+/* Sub heading */
+h1 {color: white;font-family: 'Nunito', sans-serif;font-weight: 800;margin:0;padding-left: 10px;padding-top: 5px;font-size: 25px;}
+
+/* Nav */
+ul.nav {margin: 0;padding: 0;}
+ul.nav li {overflow: hidden;float: left;}
+ul.nav li a {float: left;display: flex;color: white;text-align: center;padding: 14px 16px;text-decoration: none;font-size: 1.5rem;width: 100%;font-family: 'Nunito', sans-serif;font-weight: 600;list-style-type: none;}
+#direct{position:absolute;left:0; top:150px; bottom: 0;}
+.left {position:absolute;left:0; top:110px; bottom: 0;width: 178px;background-color: black;opacity: 0.6;height: 1000px;}
+/* Disclaimer */
+#fan{position:absolute;left:0; top:105px; bottom: 0;padding-left: 3px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;z-index: 1;}
+#fan1 {position:absolute;left:0; top:110px; bottom: 0;z-index: 0;background-color: black;width: 178px;height:50px;opacity: 0.5;}
