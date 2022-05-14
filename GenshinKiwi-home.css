@@ -51,7 +51,7 @@ hr {border: 1px solid;align-content: center;}
 .main5 {position: absolute;left:940px; top:870px; right:0; bottom:0;width: 500px;height:200px;background-color: black;opacity: 0.6;}
 #birth{position: absolute;left:940px; top:870px; right:0; bottom:0;z-index: 1;}
 #birth1{position: absolute;left:940px; top:870px; right:0; bottom:0;background-color: black;width: 500px;height:40px;z-index: 0;opacity: 0.5}
-#birth2{position: absolute;left:970px; top:900px; right:0; bottom:0;padding-left: 10px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;list-style-type: square;}
+#birth2{position: absolute;left:970px; top:875px; right:0; bottom:0;padding-left: 10px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;list-style-type: square;}
 
 /* Sub heading */
 h1 {color: white;font-family: 'Nunito', sans-serif;font-weight: 800;margin:0;padding-left: 10px;padding-top: 5px;font-size: 25px;}
