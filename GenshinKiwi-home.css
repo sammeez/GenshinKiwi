@@ -32,14 +32,14 @@ hr {border: 1px solid;align-content: center;}
 .main1_3 {position: absolute;left:1068px; top:150px; right:0; bottom:0;width: 436.6666666666667px;height:210px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;font-size: 17px;}
 
 /* YouTube video section */
-.main2 {position: absolute;left:300px; top:390px; right:0; bottom:0;width: 500px;height:445px;background-color: black;opacity: 0.8;}
-#yt {position: absolute;left: 300px;top: 391px;right: 0;bottom: 0;}
-#yt2 {position: absolute;left: 300px;top: 433.5px;right: 0;bottom: 0;}
+.main2 {position: absolute;left:940px; top:390px; right:0; bottom:0;width: 500px;height:445px;background-color: black;opacity: 0.8;}
+#yt {position: absolute;left: 940px;top: 391px;right: 0;bottom: 0;}
+#yt2 {position: absolute;left: 940px;top: 433.5px;right: 0;bottom: 0;}
 
 /* Twitter section */
-.main3 {position: absolute;left:940px; top:390px; right:0; bottom:0;width: 500px;height:445px;background-color: black;opacity: 0.8;}
-#tweet{position: absolute;left: 940px;top: 389px;right: 0;bottom: 0;}
-#tweet2{position: absolute;left: 940px;top: 433.5px;right: 0;bottom: 0;}
+.main3 {position: absolute;left:300px; top:390px; right:0; bottom:0;width: 500px;height:445px;background-color: black;opacity: 0.8;}
+#tweet{position: absolute;left: 300px;top: 389px;right: 0;bottom: 0;}
+#tweet2{position: absolute;left: 300px;top: 433.5px;right: 0;bottom: 0;}
 
 /* Event section */
 .main4 {position: absolute;left:300px; top:870px; right:0; bottom:0;width: 500px;height:200px;background-color: black;opacity: 0.6;}
