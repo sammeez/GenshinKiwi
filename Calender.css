@@ -1,0 +1,39 @@
+body,html {margin: 0;overflow: hidden;}
+
+/* Header black back*/
+.top {position:absolute;left:0; right:0;height: 100px;background-color: black;opacity: 0.6;}
+.top2 {position: absolute;left: 500px;}
+
+/* Aligns all contents in header */
+.head {display: flex;
+  align-items: center;
+  justify-content: center;margin-left: 150px;}
+
+/* Logo image */
+#image {height: 11vh;width: 10vh;padding-top: 8px;margin-right: -7px;}
+
+/* Header text */
+#text {line-height: 0%;}
+hr {border: 1px solid;align-content: center;}
+#color {color: white;width: 23vh;background-color: white;}
+#title {font-family: 'Calistoga', cursive;color: white;font-size: 40px;margin-bottom: 20px;margin-top: 10px;text-align: center;}
+#title2 {font-family: 'Alfa Slab One', cursive;color: white;font-size: 35px;margin-top: 15px;text-align: center;letter-spacing: 3px;}
+
+/* Sub heading */
+h1 {color: white;font-family: 'Nunito', sans-serif;font-weight: 800;margin:0;padding-left: 10px;padding-top: 5px;font-size: 25px;}
+
+/* Nav */
+.sidenav {position: absolute;z-index: 1;top: 0;left: 0;}
+.sidenav a {padding: 14px 16px;text-decoration: none;font-size: 1.5rem;color:white;display: block;font-family: 'Nunito', sans-serif;font-weight: 600; }
+.sidenav a:hover {color: #D96A4C}
+
+
+#direct{position:absolute;left:0; top:160px; bottom: 0;}
+
+.left {position:absolute;left:0; top:110px; bottom: 0;width: 178px;background-color: black;opacity: 0.6;height: 1000px;}
+/* Disclaimer */
+#fan{position:absolute;left:0; top:105px; bottom: 0;padding-left: 3px;color: white;font-family: 'Nunito', sans-serif;font-weight: 600;z-index: 1;font-size: 1rem;}
+#fan1 {position:absolute;left:0; top:110px; bottom: 0;z-index: 0;background-color: black;width: 178px;height:50px;opacity: 0.5;}
+
+/* Calender */
+.main1 {position: absolute;left:195px; top:110px; right:0; bottom:0;}
